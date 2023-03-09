@@ -8,7 +8,7 @@ first git clone tha repositories ``````git clone https://github.com/RawnokRahman
   # 
 then go to the directory ``````cd CLI-to-GUI-for-debian``````
  # 
- then execute tha file ``````bash setup.sh``````
+ then execute the file ``````bash setup.sh``````
  
  **`it only works in debian based os`**
 
